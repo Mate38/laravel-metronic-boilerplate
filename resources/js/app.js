@@ -1,4 +1,4 @@
 require('./bootstrap');
 
-import '../demo1/tools/webpack/vendors/global';
-import '../demo1/tools/webpack/scripts';
+import '../vendor/Metronic/tools/webpack/vendors/global';
+import '../vendor/Metronic/tools/webpack/scripts';

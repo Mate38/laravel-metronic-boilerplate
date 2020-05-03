@@ -122,8 +122,8 @@ License: You must have a valid license purchased only from themeforest(the above
 					<div class="kt-demo-panel__item-preview">
 						<img src="assets/media//demos/preview/demo1.jpg" alt="" />
 						<div class="kt-demo-panel__item-preview-overlay">
-							<a href="https://keenthemes.com/metronic/preview/demo1/index.html" class="btn btn-brand btn-elevate " target="_blank">Default</a>
-							<a href="https://keenthemes.com/metronic/preview/demo1/rtl/index.html" class="btn btn-light btn-elevate" target="_blank">RTL Version</a>
+							<a href="https://keenthemes.com/metronic/preview/vendor/Metronic/index.html" class="btn btn-brand btn-elevate " target="_blank">Default</a>
+							<a href="https://keenthemes.com/metronic/preview/vendor/Metronic/rtl/index.html" class="btn btn-light btn-elevate" target="_blank">RTL Version</a>
 						</div>
 					</div>
 				</div>

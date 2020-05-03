@@ -16,7 +16,7 @@ mix.js('resources/js/app.js', 'public/js')
 
 
 // METRONIC: copy images folder into laravel public folder
-mix.copyDirectory('resources/demo1/src/assets/media', 'public/assets/media');
+mix.copyDirectory('resources/vendor/Metronic/src/assets/media', 'public/assets/media');
 
 /**
 * plugins specific issue workaround for webpack
